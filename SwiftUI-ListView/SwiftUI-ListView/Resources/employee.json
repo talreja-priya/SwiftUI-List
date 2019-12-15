@@ -1,0 +1,63 @@
+[
+        {
+            "userId":"johnd",
+            "jobTitleName":"CTO",
+            "firstName":"John",
+            "lastName":"DOE",
+            "preferredFullName":"John Doe",
+            "id":1,
+            "region":"IND",
+            "phoneNumber":"898098090",
+            "emailAddress":"john_doe@gmail.com",
+            "image":"john"
+        },
+        {
+            "userId":"richardm",
+            "jobTitleName":"Financial Manager",
+            "firstName":"Richard",
+            "lastName":"Miles",
+            "preferredFullName":"Richard Miles",
+            "id":2,
+            "region":"CA",
+            "phoneNumber":"408-1111111",
+            "emailAddress":"richard_miles@gmail.com",
+            "image":"richard"
+        },
+        {
+            "userId":"thanks",
+            "jobTitleName":"Internal Auditor",
+            "firstName":"Ralph",
+            "lastName":"Roe",
+            "preferredFullName":"Ralph Roe",
+            "id":3,
+            "region":"IND",
+            "phoneNumber":"8754444444",
+            "emailAddress":"ralph_roe@gmail.com",
+            "image":"ralph"
+        },
+        {
+            "userId":"priyat",
+            "jobTitleName":"Developer",
+            "firstName":"Priya",
+            "lastName":"T",
+            "preferredFullName":"Priya T",
+            "id":4,
+            "region":"CA",
+            "phoneNumber":"408-1111111",
+            "emailAddress":"priya_t@gmail.com",
+            "image":"priya"
+        },
+        {
+            "userId":"vincet",
+            "jobTitleName":"Developer",
+            "firstName":"Vince",
+            "lastName":"Toe",
+            "preferredFullName":"Vince Toe",
+            "id":5,
+            "region":"CA",
+            "phoneNumber":"408-1111111",
+            "emailAddress":"vince_toe@gmail.com",
+            "image":"vinci"
+        }
+]
+
